@@ -8,4 +8,9 @@ bin/
 gen/
 _layouts
 .DS_Store
+*.swp
 gh-pages
+
+# Maven
+settings.xml
+target/
